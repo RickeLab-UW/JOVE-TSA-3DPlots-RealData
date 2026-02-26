@@ -1,4 +1,3 @@
-# JOVE-TSA-3DPlots-RealData
 # Development of an Interactive Three-Dimensional Visualization Approach for Poultry House Litter Microbial Ecology Using Simulated Datasets
 
 M.A. Peckenschneider¹, E.G. Olson¹, J.K. Byrnes², and S.C. Ricke¹*
