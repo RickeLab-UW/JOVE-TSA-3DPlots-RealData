@@ -1,4 +1,4 @@
-# Development of an Interactive Three-Dimensional Visualization Approach for Poultry House Litter Microbial Ecology Using Simulated Datasets
+# Generating Interactive 3D Spatial Visualizations of Microbial Abundance in Poultry Litter Using RStudio
 
 M.A. Peckenschneider¹, E.G. Olson¹, J.K. Byrnes², and S.C. Ricke¹*
 
